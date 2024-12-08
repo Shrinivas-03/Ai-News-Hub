@@ -1,0 +1,7 @@
+Flask
+Flask-Mail
+requests
+sqlite3
+python-dotenv
+transformers
+werkzeug
