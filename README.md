@@ -124,7 +124,7 @@ Feel free to fork this repository and submit pull requests for improvements. Con
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under APACHE 2.0. See the `LICENSE` file for details.
 
 ---
 
